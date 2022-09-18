@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 //COMPONENTS
 import Section from './components/Section'
 import FeedbackOptions from './components/FeedbackOptions'
-import Statistics from 'components/Statistics'
+import Statistics from './components/Statistics'
 import Notification from './components/Notification'
 
 class App extends Component {
